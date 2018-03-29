@@ -1,0 +1,6 @@
+pokeball Poke_Ball 200 0
+pokeball Great_Ball 600 10
+potion Potion 300 20
+potion Super_Potion 700 50
+potion Hyper_Potion 1200 200
+.

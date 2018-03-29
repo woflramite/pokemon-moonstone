@@ -1,0 +1,60 @@
+Tema: Islam Sains dan Teknologi
+Pembicara: Dr. Moedji Raharto, KK Astronomi FMIPA ITB
+Tempat: 9122 GKU Barat
+Topik: Revitaisasi Kesatuan Islam, Sains, dan Teknologi
+
+Periode Abad VII - XIV Eropa mengalami Dark Ages, sementara Islam justru sedang berkembang pesat.
+Dalam pandangan Islam, agama, sains, dan teknologi tidak dapat dipisahkan karena sains dan teknologi
+sering dipakai untuk membantu dalam beribadah, seperti misalnya shalat lima waktu--orang yang bisa 
+menentukan waktu shalat haruslah memahami pergerakan matahari.
+
+What us human being have;
+- intuition*
+- senses*
+- intelligent*
+- religion
+- taufiq
+
+*what the Western only try to reach--they tend to separate religion and science-and-technology
+
+**** ASTRONOMI ****
+
+** HUBUNGAN IBADAH DENGAN ASTRONOMI **
+	- Penentuan waktu shalat
+		Dzhuhur	| Smin = L*tan(90-(phi-delta)) plus 2 minutes
+		Ashar	| tan z (A) = 1 + tan z (D)
+		Maghrib	| z = 90deg 50min
+		Isya	| z = 108deg (Night)
+		Subuh	| z = 120deg
+
+	- Arah kiblat
+		Segitiga bola (Garis-garisnya tersusun atas busur lingkaran besar yang sepusat dengan bola)
+		
+		Prinsip segitiga bola:
+		180deg < A + B + C < 540deg
+		a + b > c; a + c > b; dan b + c > a
+		0deg < a + b + c < 360deg
+		
+		Bila a=b maka A=B dst.
+		Bila a>b maka A>B dst.
+		
+		Ada formula-formula untuk menghitung arah kiblat
+	
+** ANCAMAN LANGIT **
+	- Jatuhnya asteroid (as in burung Ababil)
+	- Badai matahari dalam skala besar
+	
+** PENELITIAN DAN PENGEMBANGAN **
+	- Monitoring aktivitas matahari
+	- Orbit asteroid dan komet 
+	- Telaah tatasurya
+	- Telaah fisik bintang
+	- Telaah fisik galaksi
+	
+** MANFAAT PRAKTIS **
+	- Sains sistme waktu 
+	- Sains tentang kalender
+	- Arah kiblat, waktu shalat
+	- Pengamatan hilal dan pengembangan sains hilal 
+	- Fenomena gerhana bulandan matahari 
+	

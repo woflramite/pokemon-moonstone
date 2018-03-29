@@ -1,0 +1,11 @@
+S R X R S S S S X R
+S R J R S S S S J R
+R R J R R S S R J R
+R R J M R R R R J R
+X J J J J J J J J J
+S S S S R R R M R R
+S S S S R R R R R R
+S S S R R R R R R R
+S S S R R R R S S S
+S S R R R R S S S S
+.
